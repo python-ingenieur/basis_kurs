@@ -6,6 +6,7 @@
 binder
 
 # Text Artifacts
-Dockerfile
+Dockerfile-Local
 README.md
 runtime.txt
+requirements.txt
